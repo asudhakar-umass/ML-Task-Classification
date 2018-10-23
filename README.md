@@ -1,1 +1,2 @@
 # ML-Task-Classification
+Machine learning based ticket classification for Pratt and Whitney Ticket classification is a manual process in most companies. Machine learning models can automate this process to be cost effective. Goal of this project was to apply machine learning models to perform the assignment. Machine learning models can be applied for ticket triaging across domains. Semantic meanings are better understood by machine learning models than rule-based models.
